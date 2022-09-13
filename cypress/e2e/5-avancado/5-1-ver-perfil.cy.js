@@ -19,7 +19,7 @@ describe('Funcionalidade: Ver perfis', () => {
         cy.get('[data-test="profile-name"]').first().should('have.text', 'Paulo Guerra' )
     });
 
-    it.only('Deve vlaidar o ultimo item da lista', () => {
+    it('Deve vlaidar o ultimo item da lista', () => {
         cy.intercept({
             method: 'GET',
             url: 'api/profile',
@@ -34,6 +34,6 @@ describe('Funcionalidade: Ver perfis', () => {
     });
 
     it('Deve vlaidar o terceiro item da lista', () => {
-        cy.get('[data-test="profile-name"]').eq(2).should('have.text', 'Pa Sun')
+        cy.get('[data-test="profile-name"]').eq(4).should('have.text', 'Pa Sun')
     });
 });

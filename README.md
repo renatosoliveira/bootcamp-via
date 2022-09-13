@@ -4,7 +4,7 @@
 [cypress-image]:https://img.shields.io/badge/cypress-10.3.1-beige
 [cypress-url]:https://docs.cypress.io/guides/overview/why-cypress
 
-# Project structure cypress + mocha + allure
+# bootcamp QA Via
 [![JavaScript Version][javascript-image]][javascript-url]
 [![Cypress Version][cypress-image]][cypress-url]
 
