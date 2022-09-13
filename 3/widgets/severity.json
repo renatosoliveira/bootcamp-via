@@ -1,1 +1,1 @@
-[]
+[{"uid":"ed0a56505ac95d0a","name":"Deve vlaidar o ultimo item da lista","time":{"start":1663082211201,"stop":1663082212444,"duration":1243},"status":"passed","severity":"normal"},{"uid":"367a00bca8bfba5f","name":"Deve vlaidar o terceiro item da lista","time":{"start":1663082212459,"stop":1663082213696,"duration":1237},"status":"passed","severity":"normal"},{"uid":"c4aba5fff017eb2","name":"Deve validar o primeiro item da lista ","time":{"start":1663082207998,"stop":1663082211090,"duration":3092},"status":"passed","severity":"normal"}]
