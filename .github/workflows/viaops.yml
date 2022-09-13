@@ -1,7 +1,7 @@
 name: ViaOps CI
 on:
   pull_request:
-    branches: [ master, release/develop ]
+    branches: [ main, release/develop ]
     
   workflow_dispatch:
     inputs:

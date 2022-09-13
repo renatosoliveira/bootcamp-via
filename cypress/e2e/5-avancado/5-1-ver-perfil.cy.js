@@ -34,6 +34,6 @@ describe('Funcionalidade: Ver perfis', () => {
     });
 
     it('Deve vlaidar o terceiro item da lista', () => {
-        cy.get('[data-test="profile-name"]').eq(4).should('have.text', 'Pa Sun')
+        cy.get('[data-test="profile-name"]').eq(2).should('have.text', 'Pa Sun')
     });
 });
