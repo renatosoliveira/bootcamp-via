@@ -1,3 +1,4 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Wed Sep 14 15:02:49 GMT 2022","Wed Sep 14 15:02:50 GMT 2022","297","","Funcionalidade login via API e acesso ao Perfil","","","","Validar uso com Cypress.env",""
-"passed","Wed Sep 14 15:02:50 GMT 2022","Wed Sep 14 15:02:52 GMT 2022","2181","","Funcionalidade login via API e acesso ao Perfil","","","","Acessar perfil com login realizado via API",""
+"passed","Wed Sep 14 15:02:50 GMT 2022","Wed Sep 14 15:02:51 GMT 2022","1098","","Funcionalidade: Ver perfis","","","","Deve vlaidar o ultimo item da lista",""
+"passed","Wed Sep 14 15:02:51 GMT 2022","Wed Sep 14 15:02:53 GMT 2022","2311","","Funcionalidade: Ver perfis","","","","Deve vlaidar o terceiro item da lista",""
+"passed","Wed Sep 14 15:02:46 GMT 2022","Wed Sep 14 15:02:50 GMT 2022","3529","","Funcionalidade: Ver perfis","","","","Deve validar o primeiro item da lista ",""
