@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Sep 14 15:24:03 GMT 2022","Wed Sep 14 15:24:07 GMT 2022","3552","","Funcionalidade: Adicionar Experiência","","","","Deve adicionar a experiência Atual com sucesso (Uso de Page Objects)",""
+"passed","Wed Sep 14 15:24:17 GMT 2022","Wed Sep 14 15:24:18 GMT 2022","1383","","Funcionalidade: Ver perfis","","","","Deve vlaidar o terceiro item da lista",""
+"passed","Wed Sep 14 15:24:24 GMT 2022","Wed Sep 14 15:24:25 GMT 2022","731","","Funcionalidade login via API e acesso ao Perfil","","","","Acessar perfil com login realizado via API",""
+"passed","Wed Sep 14 15:24:15 GMT 2022","Wed Sep 14 15:24:16 GMT 2022","1390","","Funcionalidade: Ver perfis","","","","Deve vlaidar o ultimo item da lista",""
+"passed","Wed Sep 14 15:23:58 GMT 2022","Wed Sep 14 15:24:03 GMT 2022","5237","","Funcionalidade: Adicionar Experiência","","","","Deve adicionar a experiência com sucesso (Uso de Page Objects)",""
+"passed","Wed Sep 14 15:24:24 GMT 2022","Wed Sep 14 15:24:24 GMT 2022","198","","Funcionalidade login via API e acesso ao Perfil","","","","Validar uso com Cypress.env",""
+"passed","Wed Sep 14 15:24:13 GMT 2022","Wed Sep 14 15:24:15 GMT 2022","2032","","Funcionalidade: Ver perfis","","","","Deve validar o primeiro item da lista ",""
