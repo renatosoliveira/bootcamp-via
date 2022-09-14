@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Wed Sep 14 15:18:01 GMT 2022","Wed Sep 14 15:18:01 GMT 2022","0","","cypress/e2e/5-avancado/5-2-adicionar-experiencia.cy.js","","","","Oops...we found an error preparing this test file: cypress/e2e/5-avancado/5-2-adicionar-experiencia.cy.js",""
+"passed","Wed Sep 14 15:18:10 GMT 2022","Wed Sep 14 15:18:11 GMT 2022","1192","","Funcionalidade: Ver perfis","","","","Deve vlaidar o terceiro item da lista",""
+"passed","Wed Sep 14 15:18:08 GMT 2022","Wed Sep 14 15:18:10 GMT 2022","1156","","Funcionalidade: Ver perfis","","","","Deve vlaidar o ultimo item da lista",""
+"passed","Wed Sep 14 15:18:17 GMT 2022","Wed Sep 14 15:18:17 GMT 2022","181","","Funcionalidade login via API e acesso ao Perfil","","","","Validar uso com Cypress.env",""
+"passed","Wed Sep 14 15:18:17 GMT 2022","Wed Sep 14 15:18:18 GMT 2022","773","","Funcionalidade login via API e acesso ao Perfil","","","","Acessar perfil com login realizado via API",""
+"passed","Wed Sep 14 15:18:06 GMT 2022","Wed Sep 14 15:18:08 GMT 2022","2790","","Funcionalidade: Ver perfis","","","","Deve validar o primeiro item da lista ",""
